@@ -1,7 +1,7 @@
-title: Yumik的蜗蜗
-author: Yumik-xy
-email: Yumik233@88.com
-keywords: Yumik Matlab 
+title: Winnie
+author: Winnie
+email: 909466159@qq.com
+keywords: Winnie 
 description: > # this means to ignore newlines until "show_exerpts:"
   额……这就是一个大三才开始的菜鸡博客QAQ
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -11,8 +11,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Yumik-xy
-  tagline: Sdu. Student
+  name: Winnie
+  tagline: Winnie
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -26,7 +26,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     #twitter: samarsault
-    github:  Yumik-xy
+    github:  Alaskan233
     #linkedIn: in/samarsault
     #rss: rss
     #dribbble: jekyll
@@ -64,5 +64,5 @@ permalink: /:categories/:title
 
 valine_comments:
   enable: true
-  leancloud_appid: B6RRqjhz3CTUhjM249rD0eWw-gzGzoHsz
-  leancloud_appkey: O7I97Uk3CzgO8uLMGmBPL4IG
+  leancloud_appid: PuR1tIU1mHa9vcedmq0Ceiy6-gzGzoHsz
+  leancloud_appkey: TQWW0C2y03kqTIjXTmnbwnzJ
