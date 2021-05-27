@@ -12,7 +12,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Winnie
-  tagline: 野生垃圾技术员一位
+  tagline: 野生菜鸡技术员一位
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
