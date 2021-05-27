@@ -1,9 +1,9 @@
-title: Winnie
-author: Winnie
+title: Winnie's 快乐星球
+author: Winnie the Pooh
 email: 909466159@qq.com
 keywords: Winnie 
 description: > # this means to ignore newlines until "show_exerpts:"
-  额……这就是一个大三才开始的菜鸡博客QAQ
+  这是一个借鉴过来的Blogs
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,7 +12,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Winnie
-  tagline: Winnie
+  tagline: 野生垃圾技术员一位
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -38,7 +38,7 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    email: 909466159@qq.com
 
     # Mastodon instances
     # mastodon:
